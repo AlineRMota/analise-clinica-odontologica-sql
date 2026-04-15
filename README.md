@@ -1,10 +1,10 @@
-#🦷 Análise de Clínica Odontológica com SQL (Oracle)
+🦷 #Análise de Clínica Odontológica com SQL (Oracle)
 
-📌 Objetivo
+📌 ##Objetivo
 
 Este projeto tem como objetivo analisar dados de uma clínica odontológica, explorando informações sobre pacientes, consultas e pagamentos para gerar insights de negócio.
 
-🧰 Tecnologias utilizadas
+🧰 ##Tecnologias utilizadas
 
 Oracle SQL
 SQL Developer
