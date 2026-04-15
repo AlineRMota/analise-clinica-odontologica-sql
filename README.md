@@ -1,38 +1,75 @@
-# 🦷 *Análise de Clínica Odontológica com SQL (Oracle)*
+# 🦷 Análise de Dados de Clínica Odontológica com Oracle SQL
 
-## 📌 Objetivo
+## 📌 Visão geral do projeto
 
-- Este projeto tem como objetivo analisar *dados fictícios* de uma clínica odontológica, explorando informações sobre pacientes, consultas e pagamentos para gerar insights de negócio.
+Este projeto simula a análise de dados de uma clínica odontológica utilizando SQL (Oracle), com foco em transformar dados operacionais em insights de negócio.
+
+O objetivo foi explorar informações sobre pacientes, consultas e pagamentos para entender padrões de atendimento, faturamento e inadimplência.
+
+---
+
+## 🎯 Objetivo
+
+Analisar dados fictícios de uma clínica odontológica para responder perguntas de negócio, como:
+
+- Qual o faturamento ao longo do tempo?
+- Quais procedimentos são mais realizados?
+- Qual o comportamento de pagamento dos pacientes?
+- Existe inadimplência relevante?
+- Quais serviços geram mais receita?
+
+---
 
 ## 🧰 Tecnologias utilizadas
 
-- Oracle FreeSQL
+- Oracle SQL
+- SQL Developer
+- Modelagem de banco relacional
 
-## 🗂️ Estrutura do Banco de Dados
+---
+
+## 🗂️ Estrutura do banco de dados
 
 O banco foi modelado com três tabelas principais:
 
-- Pacientes
-- Consultas
-- Pagamentos
+- pacientes
+- consultas
+- pagamentos
 
-## 📊 Análises realizadas
+Relacionadas por chaves estrangeiras, permitindo análise integrada dos dados.
 
-- Faturamento total e mensal
+---
+
+## 📊 Principais análises realizadas
+
+- Faturamento total e por período
 - Procedimentos mais realizados
 - Ticket médio por paciente
-- Análise de inadimplência
+- Taxa de inadimplência
 - Métodos de pagamento mais utilizados
 
-## 📈 Principais insights
+---
 
-- Alta concentração de consultas em procedimentos preventivos
-- Parte relevante dos pagamentos encontra-se pendente
-- Procedimentos estéticos apresentam maior valor médio
+## 📈 Principais insights encontrados
+
+- Procedimentos de limpeza e clareamento representam grande parte da demanda
+- Existe uma taxa relevante de pagamentos pendentes
+- Pacientes possuem comportamentos de gasto bem distintos
+- Serviços estéticos tendem a gerar maior faturamento médio
+
+---
+
+## 💡 O que esse projeto demonstra
+
+- Modelagem de banco relacional
+- Uso de JOINs e agregações em SQL
+- Aplicação de análise exploratória de dados
+- Geração de insights orientados a negócio
+
+---
 
 ## 🚀 Aprendizados
 
-- Modelagem de banco relacional
-- Uso de JOINs e agregações
-- Aplicação de Window Functions
-- Análise de dados voltada para negócio
+- Estruturação de dados em Oracle SQL
+- Manipulação de dados com queries analíticas
+- Pensamento analítico aplicado a dados reais simulados
