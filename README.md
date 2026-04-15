@@ -2,7 +2,7 @@
 
 ## 📌 Objetivo
 
-Este projeto tem como objetivo analisar dados de uma clínica odontológica, explorando informações sobre pacientes, consultas e pagamentos para gerar insights de negócio.
+Este projeto tem como objetivo analisar *dados fictícios* de uma clínica odontológica, explorando informações sobre pacientes, consultas e pagamentos para gerar insights de negócio.
 
 ## 🧰 Tecnologias utilizadas
 
