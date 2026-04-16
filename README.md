@@ -1,4 +1,4 @@
-# 🦷 Análise de Dados de Clínica Odontológica com Oracle SQL
+# 🦷 Análise de Dados de Clínica Odontológica com SQL
 
 ## 📌 Visão geral do projeto
 
