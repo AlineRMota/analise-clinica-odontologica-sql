@@ -73,3 +73,7 @@ Relacionadas por chaves estrangeiras, permitindo análise integrada dos dados.
 - Estruturação de dados em Oracle SQL
 - Manipulação de dados com queries analíticas
 - Pensamento analítico aplicado a dados reais simulados
+
+## 📊 Dashboard
+
+![Dashboard](dashboard.png)
